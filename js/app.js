@@ -1,1 +1,4 @@
-alert("hello World!!")
+
+    document.getElementById("color").style.color = 'green'; 
+
+
