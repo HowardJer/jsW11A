@@ -4,4 +4,12 @@
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
 }
+
+h1 {
+  font-size: 3rem;
+}
+
+#welcome {
+  display: none;
+}
 /*# sourceMappingURL=style.css.map */
