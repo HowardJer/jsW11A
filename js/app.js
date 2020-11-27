@@ -25,13 +25,12 @@ clickChange.addEventListener("click", function () {
 //   }
 // });
     
-
+// added space bar but can't seem to get eventlistener to work
 
 document.body.onkeyup = function (e) {
   if (e.keyCode == 32) {
     document.getElementById("welcome").style.display = "block";
     document.getElementById("question").style.display = "none";   
 
-
   }
-}
+}  
